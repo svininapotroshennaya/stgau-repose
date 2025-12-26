@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Страница-1" id="Eo6AUF9UfB2ZSv_GqLyj">
+    <mxGraphModel dx="331" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ccPabgdHm92hEGmMxdjq-114" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ccPabgdHm92hEGmMxdjq-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-124" connectable="0" parent="ccPabgdHm92hEGmMxdjq-114" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="has" vertex="1">
+          <mxGeometry relative="1" x="-0.2348" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Подразделение&lt;div&gt;(Departament)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-108" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ccPabgdHm92hEGmMxdjq-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-115" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ccPabgdHm92hEGmMxdjq-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-122" connectable="0" parent="ccPabgdHm92hEGmMxdjq-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Creates" vertex="1">
+          <mxGeometry relative="1" x="0.0115" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-116" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ccPabgdHm92hEGmMxdjq-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-123" connectable="0" parent="ccPabgdHm92hEGmMxdjq-116" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Worrks&lt;br&gt;in" vertex="1">
+          <mxGeometry relative="1" x="0.0936" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Пользователь&lt;/div&gt;(User)" vertex="1">
+          <mxGeometry height="60" width="120" x="327" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-117" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ccPabgdHm92hEGmMxdjq-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пользователь&lt;div&gt;(User as Specialist)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-118" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ccPabgdHm92hEGmMxdjq-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-121" connectable="0" parent="ccPabgdHm92hEGmMxdjq-118" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="has" vertex="1">
+          <mxGeometry relative="1" x="-0.2381" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заявка&lt;br&gt;(request)" vertex="1">
+          <mxGeometry height="60" width="120" x="327" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-119" edge="1" parent="1" source="ccPabgdHm92hEGmMxdjq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ccPabgdHm92hEGmMxdjq-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-120" connectable="0" parent="ccPabgdHm92hEGmMxdjq-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Belongs to" vertex="1">
+          <mxGeometry relative="1" x="0.0186" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сообщение&lt;div&gt;(Massage)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="327" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="ccPabgdHm92hEGmMxdjq-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ИсторияСтатусов&lt;br&gt;(StatusHistory)" vertex="1">
+          <mxGeometry height="60" width="120" x="327" y="447" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
